@@ -29,11 +29,11 @@ const Navigation = () => (
           Testimonials
         </a>
       </li> */}
-      <li>
+      {/* <li>
         <a className="smoothscroll" href="#footer">
           Footer
         </a>
-      </li>
+      </li> */}
     </ul>
   </nav>
 );
