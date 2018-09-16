@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Ceevee",
-    author: "Aman Mittal",
-    description: "A Gatsby.js Starter based on Ceevee by Styleshout"
+    title: "Jose Lopez",
+    author: "Jose Lopez",
+    description: "Resume"
   },
-  pathPrefix: "chemalopezp.github.io/",
+  pathPrefix: "chemalopez.es",
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
