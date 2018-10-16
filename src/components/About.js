@@ -12,7 +12,7 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Bot developer
+          Backend Engineer & Bot developer
         </p>
         <div className="row">
           <div className="columns contact-details">
@@ -26,7 +26,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="/JoseMLopez Resume.pdf" className="button">
+              <a href="/JoseLopez Resume.pdf" className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>
