@@ -6,7 +6,7 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">I'm Chema Lopez.</h1>
       <h3>
-        I'm a San Francisco based bot developer. Bot builder & Tech manager
+        I'm a San Francisco based backend developer & bot builder.
       </h3>
       <hr />
       <SocialLinks />

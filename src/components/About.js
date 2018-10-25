@@ -12,15 +12,14 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Backend Engineer & Bot developer
+          Backend Engineer & Bot Crafter
         </p>
         <div className="row">
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Jose M Lopez</span>
-              <span>(412)209-5690</span>
-              <br />
+              <span>Jose M Lopez</span><br />
+              <span>(412)209-5690</span><br />
               <span>chema.lopezp@gmail.com</span>
             </p>
           </div>
