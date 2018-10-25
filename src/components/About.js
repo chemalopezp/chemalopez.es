@@ -6,9 +6,6 @@ import profilePic from "../assets/images/profilepic.jpg";
 const About = () => (
   <section id="about">
     <div className="row">
-      <div className="three columns">
-        <img className="profile-pic" src={profilePic} alt="" />
-      </div>
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
